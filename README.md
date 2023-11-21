@@ -1,2 +1,2 @@
 # Linux-Kernel-Module
-Example implementation of an Linux kernel module
+Example implementation of an Linux kernel module.
