@@ -1,0 +1,1 @@
+cmd_/home/vboxuser/develop/kernel/ea/io_module.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/vboxuser/develop/kernel/ea/io_module.ko /home/vboxuser/develop/kernel/ea/io_module.o /home/vboxuser/develop/kernel/ea/io_module.mod.o;  true
